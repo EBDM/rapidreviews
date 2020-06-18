@@ -8,13 +8,13 @@ Este curso es un esfuerzo realizado por la Universidad de Guadalajara, Cochrane 
 
 Ligas de interés: 
 
-https://ebd.ada.org/en 
+[https://ebd.ada.org/en](https://ebd.ada.org/en)
 
-https://methods.cochrane.org/rapidreviews/welcome 
+[https://methods.cochrane.org/rapidreviews/welcome](https://methods.cochrane.org/rapidreviews/welcome)
 
-https://covidrapidreviews.cochrane.org/ 
+[https://covidrapidreviews.cochrane.org/](https://covidrapidreviews.cochrane.org/)
 
-https://es.epistemonikos.cl/frisbees-mensuales/ 
+[https://es.epistemonikos.cl/frisbees-mensuales/](https://es.epistemonikos.cl/frisbees-mensuales/)
 
 *OBJETIVO DE LA SESIÓN:* Identificar los elementos claves de una revisión rápida y diferenciar los métodos de una revisión sistemática, los alcances y las limitaciones de adoptar este método. 
 
