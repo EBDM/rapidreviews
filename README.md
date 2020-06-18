@@ -16,7 +16,11 @@ Ligas de interés:
 
 [https://es.epistemonikos.cl/frisbees-mensuales/](https://es.epistemonikos.cl/frisbees-mensuales/)
 
-*OBJETIVO DE LA SESIÓN:* Identificar los elementos claves de una revisión rápida y diferenciar los métodos de una revisión sistemática, los alcances y las limitaciones de adoptar este método. 
+*OBJETIVOS DE LA SESIÓN:* 
+1. Identificar los elementos claves de una revisión rápida y diferenciar los métodos de una revisión sistemática, los alcances y las limitaciones de adoptar este método.  
+2. Formar equipos de mínimo 6 integrantes. 
+3. Desarrollar competencias suaves entre los asistentes: Colaboración, comunicación, interacción interpersonal y relación con sus compañeros. 
+4. Prepararse para emprender un proyecto colaborativo en el desarrollo y síntesis de la evidencia científica. 
 
 ## Sesión 2 (24/06/2020):
 
