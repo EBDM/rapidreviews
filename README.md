@@ -20,6 +20,8 @@ Ligas de interés:
 
 [https://es.epistemonikos.cl/frisbees-mensuales/](https://es.epistemonikos.cl/frisbees-mensuales/)
 
+[http://www.covid19reviews.org/](http://www.covid19reviews.org/)
+
 *OBJETIVOS DE LA SESIÓN:* 
 1. Identificar los elementos claves de una revisión rápida, asi como otros productos de evidencia rápida y diferenciar los métodos de una revisión sistemática, los alcances y las limitaciones de adoptar este método.  
 2. Formar equipos de mínimo 9 integrantes.
