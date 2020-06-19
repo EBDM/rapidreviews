@@ -10,6 +10,8 @@ Ligas de interés:
 
 [https://www.who.int/alliance-hpsr/resources/publications/rapid-review-guide/en/](https://www.who.int/alliance-hpsr/resources/publications/rapid-review-guide/en/)
 
+[https://training.cochrane.org/resource/rapid-reviews-strengthen-health-policy-and-systems](https://training.cochrane.org/resource/rapid-reviews-strengthen-health-policy-and-systems)
+
 [https://ebd.ada.org/en](https://ebd.ada.org/en)
 
 [https://methods.cochrane.org/rapidreviews/welcome](https://methods.cochrane.org/rapidreviews/welcome)
