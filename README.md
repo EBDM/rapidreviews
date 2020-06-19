@@ -8,6 +8,8 @@ Este curso es un esfuerzo realizado por la Universidad de Guadalajara, Cochrane 
 
 Ligas de interés: 
 
+[https://www.who.int/alliance-hpsr/resources/publications/rapid-review-guide/en/](https://www.who.int/alliance-hpsr/resources/publications/rapid-review-guide/en/)
+
 [https://ebd.ada.org/en](https://ebd.ada.org/en)
 
 [https://methods.cochrane.org/rapidreviews/welcome](https://methods.cochrane.org/rapidreviews/welcome)
@@ -18,7 +20,7 @@ Ligas de interés:
 
 *OBJETIVOS DE LA SESIÓN:* 
 1. Identificar los elementos claves de una revisión rápida y diferenciar los métodos de una revisión sistemática, los alcances y las limitaciones de adoptar este método.  
-2. Formar equipos de mínimo 6 integrantes. 
+2. Formar equipos de mínimo 9 integrantes.
 3. Desarrollar competencias suaves entre los asistentes: Colaboración, comunicación, interacción interpersonal y relación con sus compañeros. 
 4. Prepararse para emprender un proyecto colaborativo en el desarrollo y síntesis de la evidencia científica. 
 
