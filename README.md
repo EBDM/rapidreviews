@@ -26,6 +26,8 @@ Ligas de interés:
 3. Desarrollar competencias suaves entre los asistentes: Colaboración, comunicación, interacción interpersonal y relación con sus compañeros. 
 4. Prepararse para emprender un proyecto colaborativo en el desarrollo y síntesis de la evidencia científica. 
 
+*PRESENTACIÓN SESIÓN 1:* [Introducción a las Revisiones Rápidas](Sesión_1.pdf)
+
 ## Sesión 2 (24/06/2020):
 
 ## Sesión 3 (26/06/2020):
