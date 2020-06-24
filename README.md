@@ -1,6 +1,8 @@
 ## Bienvenidos al 1er Curso-Taller a distancia de Revisiones Rápidas
 ![Alt Text](Flyer_ADA_CUCS.png)
 
+[![Alt text](https://img.youtube.com/vi/XvwE-VE--VQ/0.jpg)](https://youtu.be/XvwE-VE--VQ)] 
+
 
 ## Sesión 1 (19/06/2020):
 
@@ -29,6 +31,8 @@ Ligas de interés:
 4. Prepararse para emprender un proyecto colaborativo en el desarrollo y síntesis de la evidencia científica. 
 
 *PRESENTACIÓN SESIÓN 1:* [Introducción a las Revisiones Rápidas](Sesión_1.pdf)
+
+[![Alt text](https://img.youtube.com/vi/hJbOdVSduew/0.jpg)](https://youtu.be/hJbOdVSduew)] 
 
 ## Sesión 2 (24/06/2020):
 
