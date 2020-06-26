@@ -36,6 +36,8 @@ Ligas de interés:
 
 ## Sesión 2 (24/06/2020):
 
+Invitado: Alonso Carrasco-Labra, DDS, MsC, PhD. American Dental Association.
+
 Ligas de interés: 
 
 
@@ -54,6 +56,14 @@ Ligas de interés:
 [![Alt text](https://img.youtube.com/vi/Aq6zPuuPA08/0.jpg)](https://youtu.be/Aq6zPuuPA08)] 
 
 ## Sesión 3 (26/06/2020):
+
+*OBJETIVOS DE LA SESIÓN:*
+1. Proceso de escritura de una revisión sistemática con Metodología de Cochrane
+2. Escritura y registro de un protocolo de investigación
+3. Definiendo una pregunta de investigación
+
+
+*PRESENTACIÓN SESIÓN 3:*
 
 ## Sesión 4 (01/07/2020):
 
