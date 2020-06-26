@@ -36,6 +36,23 @@ Ligas de interés:
 
 ## Sesión 2 (24/06/2020):
 
+Ligas de interés: 
+
+
+![Alt Text](https://m.media-amazon.com/images/I/51xhKmCmIOL._SX260_.jpg)
+
+[How to Use Evidence-Based Dental Practices to Improve Clinical Decision-Making](https://www.amazon.com.mx/Evidence-Based-Practices-Improve-Clinical-Decision-Making/dp/1684470617/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1593152485&sr=8-1)
+
+
+*OBJETIVOS DE LA SESIÓN:* 
+1. Entender el valor de los métodos de síntesis de investigación y transferencia del conocimiento en la practica 
+2. Describir los elementos que permiten la diferenciación entre una revisión sistemática de buena calidad y una de baja calidad. 
+3. Interpretar los resultados de una revisión sistemática 
+
+*PRESENTACIÓN SESIÓN 2:*
+
+[![Alt text](https://img.youtube.com/vi/Aq6zPuuPA08/0.jpg)](https://youtu.be/Aq6zPuuPA08)] 
+
 ## Sesión 3 (26/06/2020):
 
 ## Sesión 4 (01/07/2020):
