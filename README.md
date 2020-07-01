@@ -36,10 +36,11 @@ Ligas de interés:
 
 ## Sesión 2 (24/06/2020):
 
+La segunda sesión del curso es un acercamiento a la utilización de la evidencia científica, se hace un recordatorio amplio respecto a los aspectos más relevantes de las revisiones sistemáticas, su metodología y su interpretación. 
+
 Invitado: Alonso Carrasco-Labra, DDS, MsC, PhD. American Dental Association.
 
 Ligas de interés: 
-
 
 ![Alt Text](https://m.media-amazon.com/images/I/51xhKmCmIOL._SX260_.jpg)
 
@@ -57,15 +58,30 @@ Ligas de interés:
 
 ## Sesión 3 (26/06/2020):
 
+El proceso de la elaboración de una revisión sistemática debe de concretar la propuesta de un título a partir de una pregunta clínica contestable a través de una estructura PICO, considerar los elementos necesarios para registrar un protocolo y conformar un equipo de trabajo con roles establecidos, tiempo destinado al proyecto y metas puntuales. 
+
+
 *OBJETIVOS DE LA SESIÓN:*
 1. Proceso de escritura de una revisión sistemática con Metodología de Cochrane
 2. Escritura y registro de un protocolo de investigación
 3. Definiendo una pregunta de investigación
 
+[Cochrane Handbook for Systematic Reviews of Interventions](https://training.cochrane.org/handbook/current)
+
 
 *PRESENTACIÓN SESIÓN 3:*
 
 ## Sesión 4 (01/07/2020):
+
+
+*OBJETIVOS DE LA SESIÓN:*
+1. Métodos para la búsqueda en bases de datos
+2. Construcción de estrategias de búsqueda
+3. Métodos para la selección de estudios
+
+[Guidance for Conducting Systematic Scoping Reviews, JBI 2015](https://journals.lww.com/ijebh/Fulltext/2015/09000/Guidance_for_conducting_systematic_scoping_reviews.5.aspx)
+
+*PRESENTACIÓN SESIÓN 4:*
 
 ## Sesión 5 (03/07/2020):
 
