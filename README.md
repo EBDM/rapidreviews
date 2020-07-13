@@ -78,6 +78,8 @@ Te invitamos a utilizar el foro para discusión para continuar las dinámicas de
 
 [![Alt text](https://img.youtube.com/vi/cgnQN768Wk4/0.jpg)](https://youtu.be/cgnQN768Wk4)]
 
+Formulario de entrega de actividad: https://docs.google.com/forms/d/e/1FAIpQLSc6AKbJ8bnbauCCKG1EU5fRxtgPpwcm_ibMB8KdMnNI1nkrKw/viewform
+
 ## Sesión 4 (01/07/2020):
 
 
