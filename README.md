@@ -34,6 +34,8 @@ Ligas de interés:
 
 [![Alt text](https://img.youtube.com/vi/hJbOdVSduew/0.jpg)](https://youtu.be/hJbOdVSduew)] 
 
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851
+
 ## Sesión 2 (24/06/2020):
 
 La segunda sesión del curso es un acercamiento a la utilización de la evidencia científica, se hace un recordatorio amplio respecto a los aspectos más relevantes de las revisiones sistemáticas, su metodología y su interpretación. 
@@ -56,6 +58,8 @@ Ligas de interés:
 
 [![Alt text](https://img.youtube.com/vi/Aq6zPuuPA08/0.jpg)](https://youtu.be/Aq6zPuuPA08)] 
 
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851
+
 ## Sesión 3 (26/06/2020):
 
 El proceso de la elaboración de una revisión sistemática debe de concretar la propuesta de un título a partir de una pregunta clínica contestable a través de una estructura PICO, considerar los elementos necesarios para registrar un protocolo y conformar un equipo de trabajo con roles establecidos, tiempo destinado al proyecto y metas puntuales. 
@@ -68,8 +72,11 @@ El proceso de la elaboración de una revisión sistemática debe de concretar la
 
 [Cochrane Handbook for Systematic Reviews of Interventions](https://training.cochrane.org/handbook/current)
 
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851
 
 *PRESENTACIÓN SESIÓN 3:*
+
+[![Alt text](https://img.youtube.com/vi/cgnQN768Wk4/0.jpg)](https://youtu.be/cgnQN768Wk4)]
 
 ## Sesión 4 (01/07/2020):
 
@@ -83,6 +90,28 @@ El proceso de la elaboración de una revisión sistemática debe de concretar la
 
 *PRESENTACIÓN SESIÓN 4:*
 
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851
+
 ## Sesión 5 (03/07/2020):
 
+*OBJETIVOS DE LA SESIÓN:*
+1. Utilización de LOVE, Epistemonikos
+2. Utilización de Epistemonikos
+3. Selección de estudios (Cochrane Training, Capitulo 7)
+4. Evaluación de riesgo de sesgo Parte 1 (Cochrane Training, Capitulo 8)
+
+Invitamos a que visiten el sitio del Manual Cochrane para Revisiones Sistemáticas y hagan lectura complementaria de lo visto en clase: https://training.cochrane.org/handbook/current
+
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851 
+
 ## Sesión 6 (08/07/2020):
+
+*OBJETIVOS DE LA SESIÓN:*
+1. Riesgo de Sesgo Parte 2
+2. Colectando la información para una revisión
+3. Conclusión del curso, seguimiento como colaboradores Cochrane.
+4. Sesión Abierta para definir el progreso entre equipos y establecer metas.
+
+Invitamos a que visiten el sitio del Manual Cochrane para Revisiones Sistemáticas y hagan lectura complementaria de lo visto en clase: https://training.cochrane.org/handbook/current
+
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851 
