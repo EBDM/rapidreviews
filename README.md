@@ -117,3 +117,7 @@ Te invitamos a utilizar el foro para discusión para continuar las dinámicas de
 Invitamos a que visiten el sitio del Manual Cochrane para Revisiones Sistemáticas y hagan lectura complementaria de lo visto en clase: https://training.cochrane.org/handbook/current
 
 Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851 
+
+Enlace para Cochrane Crowd: http://crowd.cochrane.org/
+Enlace para Cochrane Training: https://training.cochrane.org/
+Enlace para estar informados de la red iberoamericana: https://es.cochrane.org/es/home
