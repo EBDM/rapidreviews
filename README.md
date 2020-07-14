@@ -34,7 +34,7 @@ Ligas de interés:
 
 [![Alt text](https://img.youtube.com/vi/hJbOdVSduew/0.jpg)](https://youtu.be/hJbOdVSduew)] 
 
-Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: [https://www.facebook.com/groups/546043769369851](https://www.facebook.com/groups/546043769369851)
 
 ## Sesión 2 (24/06/2020):
 
@@ -58,7 +58,7 @@ Ligas de interés:
 
 [![Alt text](https://img.youtube.com/vi/Aq6zPuuPA08/0.jpg)](https://youtu.be/Aq6zPuuPA08)] 
 
-Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: [https://www.facebook.com/groups/546043769369851](https://www.facebook.com/groups/546043769369851)
 
 ## Sesión 3 (26/06/2020):
 
@@ -72,13 +72,13 @@ El proceso de la elaboración de una revisión sistemática debe de concretar la
 
 [Cochrane Handbook for Systematic Reviews of Interventions](https://training.cochrane.org/handbook/current)
 
-Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: [https://www.facebook.com/groups/546043769369851](https://www.facebook.com/groups/546043769369851)
 
 *PRESENTACIÓN SESIÓN 3:*
 
 [![Alt text](https://img.youtube.com/vi/cgnQN768Wk4/0.jpg)](https://youtu.be/cgnQN768Wk4)]
 
-Formulario de entrega de actividad: https://docs.google.com/forms/d/e/1FAIpQLSc6AKbJ8bnbauCCKG1EU5fRxtgPpwcm_ibMB8KdMnNI1nkrKw/viewform
+Formulario de entrega de actividad: [https://docs.google.com/forms/d/e/1FAIpQLSc6AKbJ8bnbauCCKG1EU5fRxtgPpwcm_ibMB8KdMnNI1nkrKw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSc6AKbJ8bnbauCCKG1EU5fRxtgPpwcm_ibMB8KdMnNI1nkrKw/viewform)
 
 ## Sesión 4 (01/07/2020):
 
@@ -92,7 +92,7 @@ Formulario de entrega de actividad: https://docs.google.com/forms/d/e/1FAIpQLSc6
 
 *PRESENTACIÓN SESIÓN 4:*
 
-Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: [https://www.facebook.com/groups/546043769369851](https://www.facebook.com/groups/546043769369851)
 
 ## Sesión 5 (03/07/2020):
 
@@ -102,9 +102,9 @@ Te invitamos a utilizar el foro para discusión para continuar las dinámicas de
 3. Selección de estudios (Cochrane Training, Capitulo 7)
 4. Evaluación de riesgo de sesgo Parte 1 (Cochrane Training, Capitulo 8)
 
-Invitamos a que visiten el sitio del Manual Cochrane para Revisiones Sistemáticas y hagan lectura complementaria de lo visto en clase: https://training.cochrane.org/handbook/current
+Invitamos a que visiten el sitio del Manual Cochrane para Revisiones Sistemáticas y hagan lectura complementaria de lo visto en clase: [https://training.cochrane.org/handbook/current](https://training.cochrane.org/handbook/current)
 
-Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851 
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: [https://www.facebook.com/groups/546043769369851](https://www.facebook.com/groups/546043769369851)
 
 ## Sesión 6 (08/07/2020):
 
@@ -114,10 +114,10 @@ Te invitamos a utilizar el foro para discusión para continuar las dinámicas de
 3. Conclusión del curso, seguimiento como colaboradores Cochrane.
 4. Sesión Abierta para definir el progreso entre equipos y establecer metas.
 
-Invitamos a que visiten el sitio del Manual Cochrane para Revisiones Sistemáticas y hagan lectura complementaria de lo visto en clase: https://training.cochrane.org/handbook/current
+Invitamos a que visiten el sitio del Manual Cochrane para Revisiones Sistemáticas y hagan lectura complementaria de lo visto en clase: [https://training.cochrane.org/handbook/current](https://training.cochrane.org/handbook/current)
 
-Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: https://www.facebook.com/groups/546043769369851 
+Te invitamos a utilizar el foro para discusión para continuar las dinámicas de grupos: [https://www.facebook.com/groups/546043769369851](https://www.facebook.com/groups/546043769369851)
 
-Enlace para Cochrane Crowd: http://crowd.cochrane.org/
-Enlace para Cochrane Training: https://training.cochrane.org/
-Enlace para estar informados de la red iberoamericana: https://es.cochrane.org/es/home
+Enlace para Cochrane Crowd: [http://crowd.cochrane.org/](http://crowd.cochrane.org/)
+Enlace para Cochrane Training: [https://training.cochrane.org/](https://training.cochrane.org/)
+Enlace para estar informados de la red iberoamericana: [https://es.cochrane.org/es/home](https://es.cochrane.org/es/home)
